@@ -1,0 +1,23 @@
+{
+  "name": "sm_backend",
+  "version": "1.0.0",
+  "description": "sm_project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DarbinyanNshan/Sm_BackEnd.git"
+  },
+  "author": "Nshan Darbinyan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DarbinyanNshan/Sm_BackEnd/issues"
+  },
+  "homepage": "https://github.com/DarbinyanNshan/Sm_BackEnd#readme",
+  "dependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
